@@ -1,1 +1,1 @@
-# S6-Miniproject
+# Traffic Sign Detection and Recognition
