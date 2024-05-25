@@ -3,5 +3,5 @@ This project aims to develop a web page software with a custom model that accept
 
 Installations: pip install -r .\requirements.txt
 
-To run the project: python app.py\n
+To run the project: python app.py </br>
 Then click on the link http://127.0.0.1:5000/ in the terminal.
